@@ -1,4 +1,4 @@
-# StockDoge ($SDOGE)
+# StockDoge ($STOCKDOGE)
 
 Official landing page for **StockDoge** — the meme token on Robinhood Chain, fair-launched via [Pons Launchpad](https://pons.family/launchpad).
 

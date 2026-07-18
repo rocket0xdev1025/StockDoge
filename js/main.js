@@ -1,5 +1,5 @@
 /* ============================================================
-   StockDoge ($SDOGE) — interactions & animations
+   StockDoge ($STOCKDOGE) — interactions & animations
    ============================================================ */
 
 // ---------- Sticky nav ----------
@@ -104,7 +104,7 @@ copyBtn.addEventListener("click", async () => {
   }
 
   function nextCandle() {
-    // upward drift because $SDOGE only goes up
+    // upward drift because $STOCKDOGE only goes up
     const drift = 0.006;
     const vol = 0.055;
     const open = price;
